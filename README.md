@@ -1,4 +1,4 @@
-def calculate_gcd(a, b):
+def calculate_gcd(a, ):
     while b:
         a, b = b, a % b
     return a
